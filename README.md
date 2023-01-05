@@ -1,4 +1,4 @@
 # Language_Generator
-Type in the textbox, and a bot will talk to you! 
+Ask the AI a question. It will answer you! 
 
 Link: https://codesandbox.io/s/language-generator-final-qmo99?file=/src/index.js
